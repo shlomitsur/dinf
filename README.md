@@ -2,8 +2,11 @@
   <img src="https://dinf.net/static/logo.c9285940.svg">
 </div>
 
-  A Micro-Wikipedia App for defining everything.
+<div align="center">
+ A Micro-Wikipedia [App](https://dinf.net) for defining everything.
+</div>
 
+ 
 ## Our Mission 🚀
 
 
