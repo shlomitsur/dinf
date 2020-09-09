@@ -29,3 +29,6 @@ Example of definition:
 <div align="center">
   <img src="https://dinf.net/static/standard_deviation.png">
 </div>
+
+## Feedback
+info@dinf.net
