@@ -4,7 +4,7 @@
 
   A Micro-Wikipedia App for defining everything.
 
-## Install Our Mission 🚀
+## Our Mission 🚀
 
 
 😀  Make education fun and accessible for anyone.
