@@ -1,7 +1,8 @@
-![dinf](https://dinf.net/static/logo.c9285940.svg)
-A Micro-Wikipedia App for defining everything.
+<div align="center">
+  <img src="https://dinf.net/static/logo.c9285940.svg">
+  A Micro-Wikipedia App for defining everything.
+</div>
 
-<center>Centered text</center>
 <p style="text-align: center;">Our Mission 🚀</p>
 
 
