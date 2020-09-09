@@ -17,14 +17,14 @@
 ⚙️  Automatically include emerging new concepts from the web.
   
   
-Example topics:
+## Example topics:
 
 <div align="center">
   <img src="https://dinf.net/static/dinf_topics.png">
 </div>
   
     
-Example of definition:
+## Example of definition:
 
 <div align="center">
   <img src="https://dinf.net/static/standard_deviation.png">
