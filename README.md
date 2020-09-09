@@ -24,7 +24,7 @@
 </div>
   
     
-## Example of definition:
+## Example of a definition:
 
 <div align="center">
   <img src="https://dinf.net/static/standard_deviation.png">
