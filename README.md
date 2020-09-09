@@ -2,7 +2,7 @@
   <img src="https://dinf.net/static/logo.c9285940.svg">
 </div>
 
-A Micro-Wikipedia [App](https://dinf.net) for defining everything.
+difn.net is a Micro-Wikipedia [App](https://dinf.net) for defining everything.
 
  
 ## Our Mission 🚀
