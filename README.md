@@ -2,9 +2,7 @@
   <img src="https://dinf.net/static/logo.c9285940.svg">
 </div>
 
-<div align="center">
- A Micro-Wikipedia [Appp](https://dinf.net) for defining everything.
-</div>
+A Micro-Wikipedia [App](https://dinf.net) for defining everything.
 
  
 ## Our Mission 🚀
