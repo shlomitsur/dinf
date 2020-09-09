@@ -30,5 +30,8 @@
   <img src="https://dinf.net/static/standard_deviation.png">
 </div>
 
+## Future Work
+We are working on an API for allowing 3rd-party JS plugins.
+
 ## Feedback
 info@dinf.net
