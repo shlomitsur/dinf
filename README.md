@@ -1,7 +1,5 @@
-
-dinf
-
-A Micro-Wikipedia App for defining everything
+![dinf](https://dinf.net/static/logo.c9285940.svg)
+A Micro-Wikipedia App for defining everything.
 
 
 “As simple as possible”
