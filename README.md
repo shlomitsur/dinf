@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- A Micro-Wikipedia [TensorFlow](https://www.tensorflow.org/) for defining everything.
+ A Micro-Wikipedia [Appp](https://dinf.net) for defining everything.
 </div>
 
  
