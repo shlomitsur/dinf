@@ -26,6 +26,8 @@
     
 ## Example of a definition:
 
+https://dinf.net/items/50369/Standard-Deviation
+
 <div align="center">
   <img src="https://dinf.net/static/standard_deviation.png">
 </div>
