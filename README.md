@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://dinf.net/static/logo.c9285940.svg">
-  A Micro-Wikipedia App for defining everything.
 </div>
 
-<p style="text-align: center;">Our Mission 🚀</p>
+  A Micro-Wikipedia App for defining everything.
+
+## Install Our Mission 🚀
 
 
 😀  Make education fun and accessible for anyone.
