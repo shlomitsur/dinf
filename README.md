@@ -1,8 +1,8 @@
 ![dinf](https://dinf.net/static/logo.c9285940.svg)
 A Micro-Wikipedia App for defining everything.
 
-
-Our Mission 🚀
+<center>Centered text</center>
+<p style="text-align: center;">Our Mission 🚀</p>
 
 
 😀  Make education fun and accessible for anyone.
