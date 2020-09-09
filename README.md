@@ -17,6 +17,14 @@ A Micro-Wikipedia [App](https://dinf.net) for defining everything.
 ⚙️  Automatically include emerging new concepts from the web.
 
 
+Sample definition:
+
+<div align="center">
+  <img src="https://dinf.net/static/standard_deviation.png">
+</div>
+
+Sample tocpis:
+
 <div align="center">
   <img src="https://dinf.net/static/dinf_topics.png">
 </div>
