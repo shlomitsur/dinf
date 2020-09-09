@@ -17,3 +17,6 @@ A Micro-Wikipedia [App](https://dinf.net) for defining everything.
 ⚙️  Automatically include emerging new concepts from the web.
 
 
+<div align="center">
+  <img src="https://dinf.net/static/dinf_topics.png">
+</div>
